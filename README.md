@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusret</h1>
 <h3 align="center">A software developer at SAMPAS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusretcan-biber&label=Profile%20views&color=0e75b6&style=flat" alt="nusretcan-biber" /> </p>
+<p align="top"> <img src="https://komarev.com/ghpvc/?username=nusretcan-biber&label=Profile%20views&color=0e75b6&style=flat" alt="nusretcan-biber" /> </p>
 
 - 🔭 I’m currently working on **.NET & React.js**
 
