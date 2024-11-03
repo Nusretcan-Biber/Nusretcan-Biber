@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusretcan-biber&show_icons=true&locale=en&layout=compact" alt="nusretcan-biber" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nusretcan-biber&" alt="nusretcan-biber" /></p>
+
